@@ -1,7 +1,8 @@
 
-## Available Scripts
+first install necessary package in the machine.
+### `npm install`
 
-In the project directory, you can run:
+
 
 ### `npm start`
 
