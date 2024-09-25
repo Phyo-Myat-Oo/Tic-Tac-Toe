@@ -1,4 +1,4 @@
-
+This is TIC-TAC-Toe .make by myself .
 first install necessary package in the machine.
 ### `npm install`
 
